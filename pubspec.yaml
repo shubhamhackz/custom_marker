@@ -4,15 +4,14 @@ version: 1.0.0
 homepage: https://github.com/mmolaei7878/marker_icon
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
-  flutter: ">=1.17.0"
+  sdk: ">=2.17.0 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  flutter_cache_manager: ^3.1.2
-  google_maps_flutter: ^2.0.6
-  flutter_svg: ^1.0.1
+  flutter_cache_manager: ^3.3.0
+  google_maps_flutter: ^2.1.12
+  flutter_svg: ^1.1.4
 dev_dependencies:
   flutter_test:
     sdk: flutter
